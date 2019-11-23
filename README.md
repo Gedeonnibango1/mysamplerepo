@@ -11,9 +11,8 @@ Hello everyone ! Just to welcome you on Git hub
 ```
 And then, Bingo !
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
-
-
 Transform in **bold**
+
 And in *italic*
+
 And other ***underline***
