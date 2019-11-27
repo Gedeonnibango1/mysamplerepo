@@ -1,6 +1,6 @@
-# Welcome to Git hub
+# Welcome to Github
 
-Hello everyone ! Just to welcome you on Git hub 
+Hello everyone ! Just to welcome you on Github 
 
 ## Do you know how to embed images in the markdown ?
 
